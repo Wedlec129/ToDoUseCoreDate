@@ -6,6 +6,18 @@
 все сохраняется
 
 с использованием coredate
+<p align="center">
+      <img src="https://github.com/Wedlec129/ToDoUseCoreDate/blob/main/1.png" width="726">
+</p>
+<p align="center">
+      <img src="https://github.com/Wedlec129/ToDoUseCoreDate/blob/main/2.png" width="726">
+</p>
+<p align="center">
+      <img src="https://github.com/Wedlec129/ToDoUseCoreDate/blob/main/3.png" width="726">
+</p>
+<p align="center">
+      <img src="https://github.com/Wedlec129/ToDoUseCoreDate/blob/main/4.png" width="726">
+</p>
 
 <p align="center">
 
